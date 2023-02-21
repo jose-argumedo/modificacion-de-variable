@@ -1,0 +1,4 @@
+a = "hola mundo"
+Print(a)
+a = "estoy aprendiendo python"
+Print(a)
